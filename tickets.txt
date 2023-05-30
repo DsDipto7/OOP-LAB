@@ -1,0 +1,19 @@
+
+Movie: abcd
+Ticket Price: 2
+Movie Time: 22
+Movie Date: 2
+Viewer Name: 2
+Phone Number: 2
+Number of Tickets: 2
+Total Price: 4
+--------------------------------
+Movie: 1
+Ticket Price: 1
+Movie Time: 1
+Movie Date: 1
+Viewer Name: 1
+Phone Number: 1
+Number of Tickets: 1
+Total Price: 1
+--------------------------------
